@@ -1,0 +1,12 @@
+body{
+	font-family: 'Cutive Mono', monospace;
+}
+
+.bg-primary {
+        background-color: #35281f73!important;
+}
+
+.clear-filter[filter-color=orange] {
+    background: rgba(44,44,44,.2);
+    background: linear-gradient(0deg,rgba(44,44,44,.2),rgb(19, 18, 17));
+}
